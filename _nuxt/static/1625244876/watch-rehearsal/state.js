@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Frehearsal\u002F_nuxt\u002Fstatic\u002F1625244876",layout:"default",error:a,serverRendered:true,routePath:"\u002Fwatch-rehearsal",config:{_app:{basePath:"\u002Frehearsal\u002F",assetsPath:"\u002Frehearsal\u002F_nuxt\u002F",cdnURL:a}}}}(null));
